@@ -74,7 +74,7 @@ Actualmente sigo fortaleciendo mis habilidades en desarrollo full-stack, aplicac
 ## 🎓 Formación
 
 **Ingeniería en Desarrollo de Software**  
-Universidad Metropolitana del Valle de México — En curso
+Universidad Metropolitana del Valle de México — Finalizada
 
 ---
 
